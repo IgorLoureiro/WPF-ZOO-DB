@@ -1,0 +1,15 @@
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\bin\Debug\WpfZOO.exe.config
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\bin\Debug\WpfZOO.exe
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\bin\Debug\WpfZOO.pdb
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\WpfZOO.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\MainWindow.g.cs
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\App.g.cs
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\WpfZOO_MarkupCompile.cache
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\WpfZOO_MarkupCompile.lref
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\MainWindow.baml
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\WpfZOO.g.resources
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\WpfZOO.Properties.Resources.resources
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\WpfZOO.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\WpfZOO.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\WpfZOO.exe
+C:\Users\Pichau\Desktop\Programação\C# Estudos\ZooDB\WpfZOO\obj\Debug\WpfZOO.pdb
